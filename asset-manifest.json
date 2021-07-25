@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Project/static/css/main.aa4a9808.chunk.css",
-    "main.js": "/Project/static/js/main.04904f40.chunk.js",
-    "main.js.map": "/Project/static/js/main.04904f40.chunk.js.map",
+    "main.js": "/Project/static/js/main.4cb4f769.chunk.js",
+    "main.js.map": "/Project/static/js/main.4cb4f769.chunk.js.map",
     "runtime-main.js": "/Project/static/js/runtime-main.d7b9190a.js",
     "runtime-main.js.map": "/Project/static/js/runtime-main.d7b9190a.js.map",
     "static/css/2.23d83f28.chunk.css": "/Project/static/css/2.23d83f28.chunk.css",
@@ -21,7 +21,7 @@
     "static/media/circle.723ae446.svg": "/Project/static/media/circle.723ae446.svg",
     "static/media/circle3.b271cf44.svg": "/Project/static/media/circle3.b271cf44.svg",
     "static/media/en.2d19fed4.svg": "/Project/static/media/en.2d19fed4.svg",
-    "static/media/homebg.09e8f482.jpg": "/Project/static/media/homebg.09e8f482.jpg",
+    "static/media/homebg.a4b53cf8.jpg": "/Project/static/media/homebg.a4b53cf8.jpg",
     "static/media/llogo.356ec677.svg": "/Project/static/media/llogo.356ec677.svg",
     "static/media/llogodash.142857a1.svg": "/Project/static/media/llogodash.142857a1.svg",
     "static/media/loading.0154d6a4.svg": "/Project/static/media/loading.0154d6a4.svg",
@@ -36,6 +36,6 @@
     "static/css/2.23d83f28.chunk.css",
     "static/js/2.667d3bdf.chunk.js",
     "static/css/main.aa4a9808.chunk.css",
-    "static/js/main.04904f40.chunk.js"
+    "static/js/main.4cb4f769.chunk.js"
   ]
 }
