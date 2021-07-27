@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Project/static/css/main.aa4a9808.chunk.css",
-    "main.js": "/Project/static/js/main.df268203.chunk.js",
-    "main.js.map": "/Project/static/js/main.df268203.chunk.js.map",
-    "runtime-main.js": "/Project/static/js/runtime-main.5a10453e.js",
-    "runtime-main.js.map": "/Project/static/js/runtime-main.5a10453e.js.map",
+    "main.js": "/Project/static/js/main.b46622ce.chunk.js",
+    "main.js.map": "/Project/static/js/main.b46622ce.chunk.js.map",
+    "runtime-main.js": "/Project/static/js/runtime-main.a24c1001.js",
+    "runtime-main.js.map": "/Project/static/js/runtime-main.a24c1001.js.map",
     "static/css/2.23d83f28.chunk.css": "/Project/static/css/2.23d83f28.chunk.css",
-    "static/js/2.a41a978f.chunk.js": "/Project/static/js/2.a41a978f.chunk.js",
-    "static/js/2.a41a978f.chunk.js.map": "/Project/static/js/2.a41a978f.chunk.js.map",
-    "static/js/3.f8e54050.chunk.js": "/Project/static/js/3.f8e54050.chunk.js",
-    "static/js/3.f8e54050.chunk.js.map": "/Project/static/js/3.f8e54050.chunk.js.map",
+    "static/js/2.e5526758.chunk.js": "/Project/static/js/2.e5526758.chunk.js",
+    "static/js/2.e5526758.chunk.js.map": "/Project/static/js/2.e5526758.chunk.js.map",
+    "static/js/3.2985e6ce.chunk.js": "/Project/static/js/3.2985e6ce.chunk.js",
+    "static/js/3.2985e6ce.chunk.js.map": "/Project/static/js/3.2985e6ce.chunk.js.map",
     "index.html": "/Project/index.html",
     "static/css/2.23d83f28.chunk.css.map": "/Project/static/css/2.23d83f28.chunk.css.map",
     "static/css/main.aa4a9808.chunk.css.map": "/Project/static/css/main.aa4a9808.chunk.css.map",
-    "static/js/2.a41a978f.chunk.js.LICENSE.txt": "/Project/static/js/2.a41a978f.chunk.js.LICENSE.txt",
+    "static/js/2.e5526758.chunk.js.LICENSE.txt": "/Project/static/js/2.e5526758.chunk.js.LICENSE.txt",
     "static/media/Footerlogo.3d07a7a1.svg": "/Project/static/media/Footerlogo.3d07a7a1.svg",
     "static/media/App.css": "/Project/static/media/HIGHSPEED.05a5aa28.TTF",
     "static/media/R.978e4d46.png": "/Project/static/media/R.978e4d46.png",
@@ -32,10 +32,10 @@
     "static/media/user.1a1c8228.svg": "/Project/static/media/user.1a1c8228.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a10453e.js",
+    "static/js/runtime-main.a24c1001.js",
     "static/css/2.23d83f28.chunk.css",
-    "static/js/2.a41a978f.chunk.js",
+    "static/js/2.e5526758.chunk.js",
     "static/css/main.aa4a9808.chunk.css",
-    "static/js/main.df268203.chunk.js"
+    "static/js/main.b46622ce.chunk.js"
   ]
 }
