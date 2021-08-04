@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/Project/static/css/main.aa4a9808.chunk.css",
-    "main.js": "/Project/static/js/main.b46622ce.chunk.js",
-    "main.js.map": "/Project/static/js/main.b46622ce.chunk.js.map",
-    "runtime-main.js": "/Project/static/js/runtime-main.a24c1001.js",
-    "runtime-main.js.map": "/Project/static/js/runtime-main.a24c1001.js.map",
+    "main.css": "/Project/static/css/main.6b291acd.chunk.css",
+    "main.js": "/Project/static/js/main.d6f0ab8c.chunk.js",
+    "main.js.map": "/Project/static/js/main.d6f0ab8c.chunk.js.map",
+    "runtime-main.js": "/Project/static/js/runtime-main.e0474c3e.js",
+    "runtime-main.js.map": "/Project/static/js/runtime-main.e0474c3e.js.map",
     "static/css/2.23d83f28.chunk.css": "/Project/static/css/2.23d83f28.chunk.css",
-    "static/js/2.e5526758.chunk.js": "/Project/static/js/2.e5526758.chunk.js",
-    "static/js/2.e5526758.chunk.js.map": "/Project/static/js/2.e5526758.chunk.js.map",
-    "static/js/3.2985e6ce.chunk.js": "/Project/static/js/3.2985e6ce.chunk.js",
-    "static/js/3.2985e6ce.chunk.js.map": "/Project/static/js/3.2985e6ce.chunk.js.map",
+    "static/js/2.c9ff395d.chunk.js": "/Project/static/js/2.c9ff395d.chunk.js",
+    "static/js/2.c9ff395d.chunk.js.map": "/Project/static/js/2.c9ff395d.chunk.js.map",
+    "static/js/3.b60f7e0e.chunk.js": "/Project/static/js/3.b60f7e0e.chunk.js",
+    "static/js/3.b60f7e0e.chunk.js.map": "/Project/static/js/3.b60f7e0e.chunk.js.map",
     "index.html": "/Project/index.html",
     "static/css/2.23d83f28.chunk.css.map": "/Project/static/css/2.23d83f28.chunk.css.map",
-    "static/css/main.aa4a9808.chunk.css.map": "/Project/static/css/main.aa4a9808.chunk.css.map",
-    "static/js/2.e5526758.chunk.js.LICENSE.txt": "/Project/static/js/2.e5526758.chunk.js.LICENSE.txt",
+    "static/css/main.6b291acd.chunk.css.map": "/Project/static/css/main.6b291acd.chunk.css.map",
+    "static/js/2.c9ff395d.chunk.js.LICENSE.txt": "/Project/static/js/2.c9ff395d.chunk.js.LICENSE.txt",
     "static/media/Footerlogo.3d07a7a1.svg": "/Project/static/media/Footerlogo.3d07a7a1.svg",
     "static/media/App.css": "/Project/static/media/HIGHSPEED.05a5aa28.TTF",
     "static/media/R.978e4d46.png": "/Project/static/media/R.978e4d46.png",
     "static/media/UploadIcon.svg": "/Project/static/media/UploadIcon.469126df.svg",
-    "static/media/checked.18266432.svg": "/Project/static/media/checked.18266432.svg",
     "static/media/circle.723ae446.svg": "/Project/static/media/circle.723ae446.svg",
     "static/media/circle3.b271cf44.svg": "/Project/static/media/circle3.b271cf44.svg",
     "static/media/en.2d19fed4.svg": "/Project/static/media/en.2d19fed4.svg",
@@ -28,14 +27,14 @@
     "static/media/login.54d25b29.jpg": "/Project/static/media/login.54d25b29.jpg",
     "static/media/over.aee635b1.svg": "/Project/static/media/over.aee635b1.svg",
     "static/media/rocket1.2736fa0a.svg": "/Project/static/media/rocket1.2736fa0a.svg",
-    "static/media/undifined.24e21095.png": "/Project/static/media/undifined.24e21095.png",
-    "static/media/user.1a1c8228.svg": "/Project/static/media/user.1a1c8228.svg"
+    "static/media/user.1a1c8228.svg": "/Project/static/media/user.1a1c8228.svg",
+    "static/media/validation.6a2af516.webp": "/Project/static/media/validation.6a2af516.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.a24c1001.js",
+    "static/js/runtime-main.e0474c3e.js",
     "static/css/2.23d83f28.chunk.css",
-    "static/js/2.e5526758.chunk.js",
-    "static/css/main.aa4a9808.chunk.css",
-    "static/js/main.b46622ce.chunk.js"
+    "static/js/2.c9ff395d.chunk.js",
+    "static/css/main.6b291acd.chunk.css",
+    "static/js/main.d6f0ab8c.chunk.js"
   ]
 }
